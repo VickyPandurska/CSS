@@ -1,0 +1,20 @@
+html,body, div, p, img {
+	margin: 0px;
+	padding: 0px;
+}
+img, p {
+	position: relative;
+}
+body {
+	background-color: red;
+}
+#container div {
+	display: inline-block;
+	width: 30%
+	background-color: #00F5FF;
+	height: 800px;
+}
+#second {
+	position: absolute;
+	left: 0px;
+}
